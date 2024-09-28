@@ -1,0 +1,1 @@
+/Users/nikolawinata/Library/Application Support/Übersicht/widgets/simple-bar/lib/styles/pywal/pywal-gen.sh
